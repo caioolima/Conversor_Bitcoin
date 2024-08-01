@@ -1,16 +1,34 @@
-# ap2_conversor
 
-A new Flutter project.
+---
 
-## Getting Started
+### Conversor Bitcoin**
 
-This project is a starting point for a Flutter application.
+**README.md**
 
-A few resources to get you started if this is your first Flutter project:
+```markdown
+# Conversor Bitcoin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Descrição
+Aplicação em Flutter para converter dólares em Bitcoin, com um histórico de conversões.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+- Flutter
+
+## Instalação
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/caioolima/Conversor_Bitcoin
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd Conversor_Bitcoin
+    ```
+3. Instale as dependências:
+    ```bash
+    flutter pub get
+    ```
+
+## Execução
+Para executar o aplicativo:
+```bash
+flutter run
